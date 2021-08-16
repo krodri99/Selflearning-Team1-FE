@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Selflearning-Team1-FE/static/css/main.e796ec12.chunk.css",
+    "main.js": "/Selflearning-Team1-FE/static/js/main.655308ea.chunk.js",
+    "main.js.map": "/Selflearning-Team1-FE/static/js/main.655308ea.chunk.js.map",
+    "runtime-main.js": "/Selflearning-Team1-FE/static/js/runtime-main.351054e8.js",
+    "runtime-main.js.map": "/Selflearning-Team1-FE/static/js/runtime-main.351054e8.js.map",
+    "static/js/2.ed2dbb16.chunk.js": "/Selflearning-Team1-FE/static/js/2.ed2dbb16.chunk.js",
+    "static/js/2.ed2dbb16.chunk.js.map": "/Selflearning-Team1-FE/static/js/2.ed2dbb16.chunk.js.map",
+    "static/js/3.251c6a32.chunk.js": "/Selflearning-Team1-FE/static/js/3.251c6a32.chunk.js",
+    "static/js/3.251c6a32.chunk.js.map": "/Selflearning-Team1-FE/static/js/3.251c6a32.chunk.js.map",
+    "index.html": "/Selflearning-Team1-FE/index.html",
+    "static/css/main.e796ec12.chunk.css.map": "/Selflearning-Team1-FE/static/css/main.e796ec12.chunk.css.map",
+    "static/js/2.ed2dbb16.chunk.js.LICENSE.txt": "/Selflearning-Team1-FE/static/js/2.ed2dbb16.chunk.js.LICENSE.txt",
+    "static/media/BigPicture.50a963dc.png": "/Selflearning-Team1-FE/static/media/BigPicture.50a963dc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.351054e8.js",
+    "static/js/2.ed2dbb16.chunk.js",
+    "static/css/main.e796ec12.chunk.css",
+    "static/js/main.655308ea.chunk.js"
+  ]
+}
